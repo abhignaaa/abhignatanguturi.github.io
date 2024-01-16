@@ -1,31 +1,27 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to My Portfolio!
 
+1. Introduction:
+   - Hello! I'm Abhigna Tanguturi, and this portfolio showcases my skills and academic achievements.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+2. Navigation:
+   - Explore different sections: About Me, Experience, Projects, Certificates.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+3. About Me:
+   - Discover more about my academic background and skills.
 
-(* = not included)
+4. Experience:
+   - Learn about my professional journey, roles, and accomplishments.
 
-AJ
-aj@lkn.io | @ajlkn
+5. Projects:
+   - Dive into my data-driven projects. GitHub links are available for each project, check them out.
 
+6. Certificates:
+   - View my earned certificates as proof of dedication and expertise.
 
-Credits:
+7. Contact Information:
+   - Reach out to me through provided contact details.
+   - Connect me on LinkedIn and GitHub.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+8. Conclusion:
+   - Thank you for exploring my portfolio! Your interest is appreciated.
+   - I look forward to potential opportunities.
